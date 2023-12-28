@@ -17,6 +17,8 @@ Ants: Players place an ant into the colony by selecting from the available ant t
 
 Bees: In this game, bees are the antagonistic forces that the player must defend the ant colony from. Each turn, a bee either advances to the next place in the tunnel if no ant is in its way, or it stings the ant in its way. Bees win when at least one bee reaches the end of a tunnel.
 
+![gui_explanation](https://github.com/veryzenzain/Ants-Vs.-Bees/assets/24355252/ea40f9f0-0519-4d10-b5d5-6fcc0f162778)
+
 ## Core classes:
 
 
