@@ -1,7 +1,9 @@
 # Ants-Vs.-Bees
 A tower defense game called Ants Vs. Bees. As the ant queen, you populate your colony with the bravest ants you can muster. Your ants must protect their queen from the evil bees that invade your territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and your queen will succumb to the bees' wrath. This game is inspired by PopCap Games' Plants Vs. Zombies.
 
-Core concepts
+Core concepts:
+
+
 The Colony. This is where the game takes place. The colony consists of several Places that are chained together to form a tunnel where bees can travel through. The colony also has some quantity of food which can be expended in order to place an ant in a tunnel.
 
 Places. A place links to another place to form a tunnel. The player can put a single ant into each place. However, there can be many bees in a single place.
